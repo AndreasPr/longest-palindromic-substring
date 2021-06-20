@@ -1,3 +1,3 @@
 # Longest Palindromic Substring
 
-Implemented in Python
+Implementation in Python
